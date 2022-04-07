@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animes-world/static/css/main.b2d892c5.css",
+    "main.js": "/animes-world/static/js/main.ffd4ffe5.js",
+    "static/js/787.da479f89.chunk.js": "/animes-world/static/js/787.da479f89.chunk.js",
+    "index.html": "/animes-world/index.html",
+    "main.b2d892c5.css.map": "/animes-world/static/css/main.b2d892c5.css.map",
+    "main.ffd4ffe5.js.map": "/animes-world/static/js/main.ffd4ffe5.js.map",
+    "787.da479f89.chunk.js.map": "/animes-world/static/js/787.da479f89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d892c5.css",
+    "static/js/main.ffd4ffe5.js"
+  ]
+}
